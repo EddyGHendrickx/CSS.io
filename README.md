@@ -37,4 +37,4 @@ car has more value than my car itself.
 My GPS device in my car is worth more
 than my car itself.
 
-[Previous](https://github.com/malikdahmany/challenge-markdown) || MATTHIJS || [Next](http://github.com/moetichentuf/mc)
+[Malik](https://github.com/malikdahmany/challenge-markdown) || MATTHIJS || [Moeti](http://github.com/moetichentuf/mc)
