@@ -26,7 +26,7 @@ you're facing any problem, and I'm not too busy. :)
 
 ##### A funny Story
 I bought my first car for €150 because
-the orignal owner wanted to return it to
+the original owner wanted to return it to
 the scrap metal yard. I bought it for the same
 price and that's why I got it so cheap.
 My dad bought me a GPS system for the same
