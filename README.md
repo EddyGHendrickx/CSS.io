@@ -3,7 +3,7 @@ _Be the change you want to see in the world_
 ![photo](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/p960x960/34779075_10212693560515537_3675168421009424384_o.jpg?_nc_cat=111&_nc_ohc=rBTyKVbOzuAAQlEo_8luEDi4yhaqbLtqAc16wg8PcmL9pnSXp6kLXqX1w&_nc_ht=scontent-bru2-1.xx&oh=10e76ad8c7d62f5983aaa2aaac76fecf&oe=5E406D3C)
 ##  I'm a junior web developer at BeCode
 
-| What        | Is          |
+| Personal        | Information          |
 | ------------- |:-------------:|
 | Birthday    | 12/04 |
 | Gender      | Male  |
