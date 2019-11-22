@@ -1,0 +1,121 @@
+html {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/960859359391625160/CE3397A7F854D43BA22697051FC7CD4CADA284F4/?imw=1024&imh=662&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+    background-size: cover;
+}
+
+h1 {
+    table-layout:auto;
+    padding: 1px;
+    text-align: center;
+    background: #1abc9c;
+    color: #134475;
+    font-size: 30px;
+    border-radius: 25px;
+}
+
+#tafel {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+#tafel td, #tafel th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    width: 10px;
+
+}
+#hh2 {
+    text-align: center;
+    border-radius: 1px;
+    border-image: url("https://fortniteintel.com/wp-content/uploads/2019/10/fortnite-chapter-2-bug-1021x580.jpg") 20% round;
+    border-width: 20px;
+
+
+}
+
+
+
+#tafel tr:hover {background-color: #2d76e3;}
+
+#tafel th {
+    width: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #2d76e3;
+    color: #134475;
+}
+#mezelf {
+    border-radius: 50%;
+    position: relative;
+    right: -600px;
+
+}
+
+
+#hhh {
+    font-weight: bold;
+}
+
+#em {
+    position: relative;
+    left: 500px;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    border-radius: 1px;
+    border-image: url("https://fortniteintel.com/wp-content/uploads/2019/10/fortnite-chapter-2-bug-1021x580.jpg") 20% round;
+    border-width: 20px;
+}
+td {
+    color: #1abc9c;
+}
+
+ol {
+    text-align:center;
+}
+
+ul {
+    border-style: unset;
+    padding: 1px;
+    text-align: left;
+    background: #1abc9c;
+    color: #134475;
+    font-size: 15px;
+    border-radius: 10px;
+    border-width: 20px;
+
+}
+
+li {
+    text-align: center;
+}
+
+a {
+    background-color: #1abc9c;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: pink;
+    color: #134475;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#car {
+    transform: revert;
+    width:20%;
+    height: auto;
+}
+
